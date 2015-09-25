@@ -47,9 +47,9 @@ API Приложения
 
 ### Примеры запросов
 
-    GET http://example.com/currency/api/USD
+    GET http://example.com/currency/api/rate/USD
 
-    GET http://example.com/currency/api/USD/2015-09-24
+    GET http://example.com/currency/api/rate/USD/2015-09-24
 
 
 ### Пример ответа
